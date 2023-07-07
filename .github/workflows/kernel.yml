@@ -15,7 +15,7 @@ on:
    config:
     description: 'Device defconfig'
     required: true
-    default: 'nh_defconfig'
+    default: 'nethunter_defconfig'
     type: string
    boot_format:
     description: 'Boot format'
